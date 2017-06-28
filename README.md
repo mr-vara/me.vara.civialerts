@@ -6,7 +6,7 @@
 
  **EXAMPLE :**
    	![Screen shot](https://raw.githubusercontent.com/mr-vara/me.vara.civialerts/master/img2.jpg)  
-	When the user with the username "demoguy" is open the page "www.mysite.com/civicrm/contact-edit?cid=25" then he will see following 
+	When your users open the page "www.thedemo.com/civicrm/dashboard" then they will see following 
 	alert:
    	![Screen shot](https://raw.githubusercontent.com/mr-vara/me.vara.civialerts/master/img3.jpg)  
     
