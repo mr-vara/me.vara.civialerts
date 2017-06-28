@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/civi-alerts-page</path>
+    <page_callback>CRM_Civialerts_Page_CiviAlertsPage</page_callback>
+    <title>CiviAlertsPage</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+  <item>
+    <path>civicrm/civi-alerts-form</path>
+    <page_callback>CRM_Civialerts_Form_CiviAlertsForm</page_callback>
+    <title>CiviAlertsForm</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+</menu>
