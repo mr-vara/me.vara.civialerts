@@ -5,10 +5,10 @@
  The aim of this extension is to create pop-up windows with the given **content** on given **page**. You can choose that who can see the created pop-up windows.
 
  **EXAMPLE :**
-   	![Screen shot](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)  
+   	![Screen shot](https://raw.githubusercontent.com/mr-vara/me.vara.civialerts/master/img2.jpg)  
 	When the user with the username "demoguy" is open the page "www.mysite.com/civicrm/contact-edit?cid=25" then he will see following 
 	alert:
-   	![Screen shot](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)  
+   	![Screen shot](https://raw.githubusercontent.com/mr-vara/me.vara.civialerts/master/img3.jpg)  
     
  **FIELDS :**
 
@@ -22,7 +22,7 @@
  **CREATING ALERT :**
 
   - Click on "Alerts".
-   	![Screen shot](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png) 
+   	![Screen shot](https://raw.githubusercontent.com/mr-vara/me.vara.civialerts/master/img1.jpg) 
   - Fill the form as per instructions shown in the above example and hit Submit.
 	
  **INSTALLING :**
