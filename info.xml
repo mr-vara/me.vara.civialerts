@@ -2,7 +2,7 @@
 <extension key="me.vara.civialerts" type="module">
   <file>civialerts</file>
   <name>CiviAlerts</name>
-  <description>A CiviCRM Extension which help to crate Alerts/Notifications/Reminders/Messages etc.,</description>
+  <description>A CiviCRM Extension which help to create Alerts/Notifications/Reminders/Messages etc.</description>
   <license>AGPL-3.0</license>
   <maintainer>
     <author>vara</author>
